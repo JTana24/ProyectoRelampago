@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cesar\\Documents\\C\u00E9sar\\2024\\Cuatri III\\Sitio Web\\Proyecto relampago\\Relampago\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7504F674-F028-41DF-AB33-ED463B45CE66}|Relampago\\Relampago.csproj|c:\\users\\cesar\\documents\\c\u00E9sar\\2024\\cuatri iii\\sitio web\\proyecto relampago\\relampago\\relampago\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7504F674-F028-41DF-AB33-ED463B45CE66}|Relampago\\Relampago.csproj|solutionrelative:relampago\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7504F674-F028-41DF-AB33-ED463B45CE66}|Relampago\\Relampago.csproj|c:\\users\\cesar\\documents\\c\u00E9sar\\2024\\cuatri iii\\sitio web\\proyecto relampago\\relampago\\relampago\\estilos\\cssprincipal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7504F674-F028-41DF-AB33-ED463B45CE66}|Relampago\\Relampago.csproj|solutionrelative:relampago\\estilos\\cssprincipal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59B1672-439E-42FC-B331-E68D9C929135}|Data\\Data.csproj|c:\\users\\cesar\\documents\\c\u00E9sar\\2024\\cuatri iii\\sitio web\\proyecto relampago\\relampago\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59B1672-439E-42FC-B331-E68D9C929135}|Data\\Data.csproj|solutionrelative:data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cssPrincipal.css",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Documents\\C\u00E9sar\\2024\\Cuatri III\\Sitio Web\\Proyecto relampago\\Relampago\\Relampago\\estilos\\cssPrincipal.css",
+              "RelativeDocumentMoniker": "Relampago\\estilos\\cssPrincipal.css",
+              "ToolTip": "C:\\Users\\Cesar\\Documents\\C\u00E9sar\\2024\\Cuatri III\\Sitio Web\\Proyecto relampago\\Relampago\\Relampago\\estilos\\cssPrincipal.css",
+              "RelativeToolTip": "Relampago\\estilos\\cssPrincipal.css",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T21:07:55.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.aspx",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Documents\\C\u00E9sar\\2024\\Cuatri III\\Sitio Web\\Proyecto relampago\\Relampago\\Relampago\\Principal.aspx",
+              "RelativeDocumentMoniker": "Relampago\\Principal.aspx",
+              "ToolTip": "C:\\Users\\Cesar\\Documents\\C\u00E9sar\\2024\\Cuatri III\\Sitio Web\\Proyecto relampago\\Relampago\\Relampago\\Principal.aspx",
+              "RelativeToolTip": "Relampago\\Principal.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-03T21:04:46.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Documents\\C\u00E9sar\\2024\\Cuatri III\\Sitio Web\\Proyecto relampago\\Relampago\\Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Documents\\C\u00E9sar\\2024\\Cuatri III\\Sitio Web\\Proyecto relampago\\Relampago\\Data\\Class1.cs",
+              "RelativeToolTip": "Data\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:04:28.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
